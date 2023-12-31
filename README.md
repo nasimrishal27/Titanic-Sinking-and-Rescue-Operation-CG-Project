@@ -44,4 +44,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-- **[George Jose](https://github.com/george-j00)** - Full stack Developer
+- **[Nasim Rishal](https://github.com/Rishu24748)** 
